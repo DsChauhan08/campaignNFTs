@@ -1,5 +1,8 @@
 # 🚀 Bid, Buy, and Sell NFTs and Crypto on-the-go with Campaign NFTs App 📱
 
+Downloads on GitHub Releases or below
+
+![Download on Expo](https://expo.dev/accounts/dschauhan08/projects/nativeVersion/builds/f9a768ca-1f16-4c13-9916-78cf1d4e3610)
 
 Are you tired of missing out on the hottest NFTs and cryptocurrencies? Look no further than Campaign NFTs - the revolutionary app that lets you bid,
 buy, and sell digital assets all from your mobile device.
